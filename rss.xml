@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[designtestsiteforJordy]]></title>
         <description><![CDATA[designtestsiteforJordy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/designtestsiteforjordy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 02:36:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 02:36:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/designtestsiteforjordy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b20b21a0-4648-45da-a5be-4e0345ca72ba.jpg">]]></description>
+            <link>https://thegrid.ai/designtestsiteforjordy/4bbbf992-d72c-44c7-9d8f-89f316a21958/index.html</link>
+            <guid isPermaLink="false">4bbbf992-d72c-44c7-9d8f-89f316a21958</guid>
+            <pubDate>Fri, 06 May 2016 02:35:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[With Donald Trump in Charge, Republicans Have a Day of Reckoning]]></title>
-            <description><![CDATA[<article><h1>With Donald Trump in Charge, Republicans Have a Day of Reckoning</h1><p>"Position yourself in the way you think is best for you," he said, allowing that "it is difficult" for some members. "I know a lot of Republicans who are in red-leaning districts in blue states who see Trump as more helpful to them than they would have Cruz," Mr. Cole said, citing Representative Elise Stefanik, who represents a sprawling district in upstate New York.</p><img src="https://static01.nyt.com/images/2016/05/04/us/05SPLINTERweb1/05SPLINTERweb1-facebookJumbo.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>With Donald Trump in Charge, Republicans Have a Day of Reckoning</h1><p>"Position yourself in the way you think is best for you," he said, allowing that "it is difficult" for some members. "I know a lot of Republicans who are in red-leaning districts in blue states who see Trump as more helpful to them than they would have Cruz," Mr. Cole said, citing Representative Elise Stefanik, who represents a sprawling district in upstate New York.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bc40e1c47f7bdc1b7d7cb99cb96a0f972c6f4da.jpg"></article>]]></description>
             <link>http://www.nytimes.com/2016/05/05/us/politics/trump-gop.html?_r=0</link>
             <guid isPermaLink="false">9c9cab6f-24dd-4e6f-aa63-05a69a343a92</guid>
             <pubDate>Fri, 06 May 2016 02:35:45 GMT</pubDate>
