@@ -1,0 +1,14 @@
+layout_spectrum: 0.3628183144610375
+typography_spectrum: 0.5726620047353208
+color:
+  brandStrength: 0.9269309667870402
+  lightness: 0.6271793264895678
+  saturation: 0.07147601316682994
+  rhythmicContrast: 0.8157442077063024
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: designtestsiteforJordy
